@@ -1,0 +1,26 @@
+{
+  "dependencies": {
+    "ts-node": "^10.9.2",
+    "typescript": "^5.8.2"
+  },
+  "name": "nova-pasta",
+  "version": "1.0.0",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "um": "ts-node ./src/1.ts",
+    "dois": "ts-node ./src/2.ts",
+    "tres": "ts-node ./src/3.ts",
+    "quatro": "ts-node ./src/4.ts",
+    "cinco": "ts-node ./src/5.ts",
+    "seis": "ts-node ./src/6.ts",
+    "sete": "ts-node ./src/7.ts",
+    "oito": "ts-node ./src/8.ts",
+    "nove": "ts-node ./src/9.ts",
+    "dez": "ts-node ./src/10.ts"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
